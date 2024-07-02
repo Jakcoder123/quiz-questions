@@ -1,0 +1,16 @@
+{
+   "responseCode":0,
+   "results":[
+       {
+           "category":"Basics"
+           "type":"boolean"
+           "difficulty":"easy"
+           "question":"Wie programmiert man eine Variable?"
+           "correctAnswer":"var x = y"
+           "incorrectAnswers":[
+               "let x = y",
+               "variable x = y"
+           ]
+       }
+   ]
+}
